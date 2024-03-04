@@ -15,7 +15,7 @@ Untuk menjalankan dashboard streamlit di lokal dapat menggunakan kode berikut di
 streamlit run dashboard.py
 ```
 
-catatan :
+Catatan :
 Jika menggunakan os path pada program maka anda perlu menggunakan kode berikut untuk menginstal library os di local:
 ```
 pip install os
