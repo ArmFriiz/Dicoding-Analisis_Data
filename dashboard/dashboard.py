@@ -96,7 +96,7 @@ plot_pm25(data)
 st.write("Berdasarkan hasil visualisasi tersebut didapatkan hasil Kota Dongsi merupakan Kota yang memiliki rata-rata polutan PM2.5 paling tinggi dan Kota Dingling merupakan kota yang memiliki rata-rata polutan PM2.5 paling rendah")
 
 # Menampilkan korelasi polutan
-st.title('Korelasi Polutan NO2 Dan CO Dengan Polutan Lain')
+st.title('Korelasi Polutan NO2, CO Dan PM10 Dengan Polutan Lain')
 
 tabs = ["NO2", "CO", "PM10"]
 selected_tab = st.radio("Pilih Polutan:", tabs)
